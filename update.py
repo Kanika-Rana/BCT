@@ -1,0 +1,8 @@
+a=(2,4,7,9)
+print(a)
+b=list(a)
+print(b)
+num=int(input("Enter a number: "))
+b.append(num)
+c=tuple(b)
+print(c)

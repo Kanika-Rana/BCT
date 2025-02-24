@@ -1,0 +1,19 @@
+a=5
+print(type(a))
+b="hello"
+print(type(b))
+c=2.45
+print(type(c))
+d=True
+print(type(d))
+e=(4,6,5,"kanika")
+print(type(e))
+f=[5,"kanika",8,4]
+print(type(f))
+g={
+    "kanika":63,
+    "rana":54
+}
+print(type(g))
+h=2+2j
+print(type(h))
